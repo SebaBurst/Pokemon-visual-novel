@@ -22,6 +22,6 @@
 <img src="https://i.imgur.com/F01aSSB.png">
 </br>
 
-- <a>Game System</a>
+- <a>Game System:</a>
 The game system is a classic Jewelry Game where three or more adjacent blocks of the same color must be selected to advance in the game.
 <img src="https://i.imgur.com/rEpKGih.png">
