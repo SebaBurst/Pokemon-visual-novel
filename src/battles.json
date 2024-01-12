@@ -1,0 +1,81 @@
+{
+    
+    "ocho_maestros":{
+
+        "1":{
+            "name" : "Light",
+            "hp" : 1800,
+            "art" : "https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/Music%2Fprota2_vs.png?alt=media&token=b2e84176-2a4c-440a-99c1-a322af2f6165",
+            "pokemon" : "https://pokemon-project.com/pokedex/img/sprite/EspadaEscudo/Animados/447.gif"
+
+        },
+        "2":{
+            "name" : "Lucy",
+            "hp" : 2000,
+            "art" : "https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/prota3_vs.png?alt=media&token=9ac41f98-41bc-4855-a407-986d52976ec0",
+            "pokemon" : "https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/hattrem.gif"
+
+        },
+        "3":{
+            "name" : "Necrozma",
+            "hp" : 3000,
+            "art" : "",
+            "pokemon" : "https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/necrozma-dawnwings.gif"
+
+        },
+        "4":{
+            "name" : "Cynthia",
+            "hp" : 3500,
+            "art" : "https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/Music%2FCynthia.png?alt=media&token=09ded58f-bf07-416a-8add-4d0d2a8ac401",
+            "pokemon" : "https://media.tenor.com/JQQkbonzvtoAAAAi/garchomp-pokemon.gif"
+        },
+        "5":{
+            "name" : "Allister",
+            "hp" : 3500,
+            "art" : "https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/Music%2Fonion.png?alt=media&token=47923ca3-a0f6-46e5-9da2-9ae8af4cfd16",
+            "pokemon" : "https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/gengar-gigantamax.gif"
+        },
+        "6":{
+            "name" : "Necrozma",
+            "hp" : 5000,
+            "art" : "",
+            "pokemon" : "https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/necrozma-dawnwings.gif"
+        },
+        "7":{
+            "name" : "???",
+            "hp" : 5000,
+            "art" : "https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/red_vs.png?alt=media&token=8f881320-17a1-486e-a26a-bbed8f575797",
+            "pokemon" : "https://images.wikidexcdn.net/mwuploads/wikidex/6/68/latest/20231224132912/Zoroark_de_Hisui_EP_variocolor.gif"
+        },
+        "8":{
+            "name" : "????",
+            "hp" : 15000,
+            "art" : "https://firebasestorage.googleapis.com/v0/b/inazumaplus-3f274.appspot.com/o/red_vs.png?alt=media&token=8f881320-17a1-486e-a26a-bbed8f575797",
+            "pokemon" : "https://images.wikidexcdn.net/mwuploads/wikidex/9/93/latest/20221230101956/Ferropolilla_EP.gif"
+        }
+        ,
+        "9":{
+            "name" : "Lionel",
+            "hp" : 16000,
+            "art" : "https://gamepress.gg/pokemonmasters/sites/pokemonmasters/files/2021-02/ch0247_00_dande_256_battle.ktx_.png",
+            "pokemon" : "https://images.wikidexcdn.net/mwuploads/wikidex/9/93/latest/20221230101956/Ferropolilla_EP.gif"
+        }
+        ,
+        "10":{
+            "name" : "Ash",
+            "hp" : 18000,
+            "art" : "https://gamepress.gg/pokemonmasters/sites/pokemonmasters/files/2022-08/ch0264_00_satoshi_256.ktx_.png",
+            "pokemon" : "https://images.wikidexcdn.net/mwuploads/wikidex/8/81/latest/20231226123904/Pikachu_trotamundos_EP.gif"
+        }
+        ,
+        "11":{
+            "name" : "Ash",
+            "hp" : 20000,
+            "art" : "https://gamepress.gg/pokemonmasters/sites/pokemonmasters/files/2022-08/ch0264_00_satoshi_256.ktx_.png",
+            "pokemon" : "https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/pikachu-gigantamax-nosparks.gif"
+        }
+
+    }
+
+
+}

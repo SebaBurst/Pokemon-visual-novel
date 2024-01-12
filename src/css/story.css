@@ -1,0 +1,117 @@
+/* Ajustes para los contenedores principales */
+
+@font-face {
+    font-family: 'Phoenix';
+    src: url('../assets/fonts/wild.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+.chapter-bg {
+    width: 90%;
+    /* Ancho relativo al 80% del tamaño del contenedor padre */
+    max-width: 1900px;
+    border-radius: 15px;
+    max-height: 1080px;
+    height: 90vh;
+    margin: 20px auto;
+    /* Centra el contenedor */
+    background-color: #0c0c0c;
+    padding: 10px;
+    position: relative;
+    min-height: 90vh;
+    /* Altura mínima para ocupar el tamaño de la pantalla */
+
+    background-size: cover;
+    display: flex;
+    /* Añade display flex para centrar elementos internos */
+    flex-direction: column;
+    /* Asegura disposición vertical */
+    align-items: center;
+    /* Centra los elementos horizontalmente */
+}
+
+.story-bg {
+    width: 95%;
+    /* Reducción del ancho para adaptarse al contenedor padre */
+    max-width: 1600px;
+    margin-top: 6%;
+    position: absolute;
+    bottom: 2%;
+    left: 0;
+}
+
+
+.textbox-name{
+    background-color: rgba(27, 27, 27, 0.585);
+    color: white;
+    width: 14%;
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-bottom: -15px;
+}
+/* Estilos para la caja de texto y botón */
+.textbox {
+    width: 100%;
+    /* Reducción del ancho para adaptarse al contenedor padre */
+    max-width: 1600px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 2%;
+    border: 0px solid #ffffffce;
+    font-weight: 400;
+    background-color: rgba(27, 27, 27, 0.585);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 140px;
+    padding: 15px;
+    text-align: center;
+    font-size: 1.4rem;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+.startButton{
+    background-color: rgba(128, 7, 7, 0.585);
+    color: white;
+    width: 14%;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-top: 15px;
+    padding: 10px;
+
+}
+
+.startButton:hover{
+    background-color: rgba(128, 7, 7, 0.8);
+    color: white;
+    width: 14%;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-top: 15px;
+    padding: 10px;
+    cursor: pointer;
+}
+/* Estilos para las imágenes */
+.mug img {
+    max-width: 600px;
+    height: auto;
+    margin-bottom: -75px;
+    width: 90%;
+    /* Asegura que la imagen ocupe todo el espacio disponible */
+}
+
+.mugshots {
+    width: 100%;
+    /* Ajuste del ancho para ocupar todo el contenedor */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

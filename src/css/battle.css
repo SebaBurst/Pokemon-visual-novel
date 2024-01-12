@@ -1,0 +1,262 @@
+.background-mega {
+    width: 100%;
+    height: 90vh;
+  
+    
+}
+
+.battle-storm {
+    margin-top: 3%;
+    margin-left: 5%;
+    border-radius: 20px;
+    width: 100%;
+    height: 90vh;
+   
+}
+
+.battle-bg {
+    align-items: center;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2fb2821a-1406-4a1d-9b04-6668f278e944/de2sl02-6008eb1b-f174-4afc-af71-abe76a2ede51.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJmYjI4MjFhLTE0MDYtNGExZC05YjA0LTY2NjhmMjc4ZTk0NFwvZGUyc2wwMi02MDA4ZWIxYi1mMTc0LTRhZmMtYWY3MS1hYmU3NmEyZWRlNTEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-6wqOyHymWVH0RT2e3NrM4mv7KtxeDp4fJnah1_c2WM');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    display: flex;
+    height: 92vh;
+    justify-content: center;
+    margin-left: 5%;
+    margin-top: 2vh;
+    width: 90%;
+   
+}
+
+.react-sweet-progress-circle-outer{
+    width: 200px !important;
+    height: 200px !important;
+    background-color: #1e1e1e75 !important;
+    font-size: 33.12px !important;
+    border-radius: 50% !important;
+}
+
+*{
+    user-select: none;
+}
+
+
+.hp-bars{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+    align-items: center;
+    width: 45%;
+    margin-left: 25%;
+
+}
+
+.pokemon-starter{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    align-items: center;
+    width: 40%;
+    margin-left: 30%;
+}
+
+
+.poke-choice{
+    
+}
+
+.poke-item {
+    width: 80%;
+    border: 3px solid #e74616b9;
+    border-radius: 20px;
+    height: 290px;
+}
+.poke-item img{
+    width: 70%;
+}
+
+.protas{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+    align-items: center;
+    width: 40%;
+    margin-left: 30%;
+}
+
+.prota{
+    width: 80%;
+    border: 3px solid #03009cb9;
+    border-radius: 20px;
+}
+
+.prota img{
+    width: 50%;
+}
+.board-bg {
+    width: 40%;
+    background-color: #1818189c;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0%;
+    border-radius: 20px;
+
+
+}
+
+.hero-data{
+    margin-right: 6px;
+    margin-left: -16px;
+    width: 30%;
+}
+
+
+.trainer-sprite {
+    cursor: pointer;
+    border-radius: 15px;
+    height: 140px;
+    display: flex;
+    
+    width: 98%;
+    background: linear-gradient(180deg,#2039a7 100px,#000 950px);
+    overflow-y: hidden;
+
+}
+
+
+.gym-info h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+.container-gym {
+    background-color: white;
+    width: 84%;
+    margin-top: 30%;
+    height: 70%;
+    border-radius: 20px;
+    margin-left: 8%;
+}
+
+.container-gym h1 {
+    font-size: 38px;
+    font-weight: 800;
+    text-align: center;
+
+}
+
+.container-gym p {
+    font-family: Roboto;
+    padding: 15px;
+    text-align: center;
+    color: #535151e8;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.image-container-gym {
+    background-image: url('https://gamepress.gg/pokemonmasters/sites/pokemonmasters/files/2021-02/ch0247_00_dande_256_battle.ktx_.png');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 140px;
+    margin-left: -15px;
+    margin-top: 0;
+    width: 47%;
+}
+
+.gym-info {
+    height: 100%;
+    margin-left: 48px;
+    margin-top: -16px;
+    width: 40%;
+}
+
+
+.menu-bg{
+    width: 100%;
+    border-radius: 20px;
+    user-select: none;
+    height: 100vh;
+    -webkit-user-select: none;
+    user-select: none;
+    background-size: cover;
+}
+
+
+.menu-st{
+    background-color: #000;
+    width: 70%;
+    height: 80px;
+    margin-left: 15%;
+    margin-top: -5px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu-bg img{
+    width: 70%;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+    margin-top: 2%;
+
+    
+
+}
+.rival-bg {
+    width: 30%;
+}
+
+.rival-bg img {
+    width: 100%;
+
+}
+
+.pokemon-sprite img {
+    width: 80%;
+    position: static;
+    margin-top: 35%;
+}
+
+.pokemon-spriteHero img {
+    width: 40%;
+    position: static;
+    margin-top: 25%;
+}
+
+*{
+   
+}
+
+
+
+.battleHP {
+    position: relative;
+    /* Establece cualquier otro estilo que necesites */
+  }
+  
+  .progress-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .character-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80px; /* ajusta el tamaño según tu diseño */
+    border-radius: 50%;
+    /* Asegúrate de que la imagen tenga bordes redondeados para simular un círculo */
+    /* Añade cualquier otro estilo necesario para adaptarse a tu diseño */
+  }
+  
